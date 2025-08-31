@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mehdi-110.github.io/dice-dreams-free-rolls/sitemap.xml
+Sitemap: https://mehdi-110.github.io/dice-dreams-free-rolls/sitemap_index.xml
